@@ -1,3 +1,8 @@
+## 修改
+添加Safari和Firefox之间的切换
+由于macOS上的Firefox我不清楚如何直接获得current tab url
+直接使用Applescript复制粘贴解决问题
+
 ## 背景
 今天在  [reddit](https://www.reddit.com/r/macapps/comments/8wr981/safari_extension_open_in_other_browsers_free/) 上看到一个 Safari 插件，作用是在 Safari 上加一个按钮，点击后切换到其他浏览器打开当前页面。 但是这货居然要价 $2.99 ，感觉不值得，所以动手简单实现了一个，就有了今天的这个 Workflow。
 
